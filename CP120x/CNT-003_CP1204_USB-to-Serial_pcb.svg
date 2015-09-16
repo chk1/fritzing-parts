@@ -101,104 +101,104 @@
          x="54.054016"
          y="993.0304" />
       <g
-         id="copper1">
+         transform="translate(-1.4853579,994.80808)"
+         id="copper0">
         <g
-           transform="translate(-1.4853579,994.80808)"
-           id="copper0">
+           id="copper1">
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector11pin-5"
+             id="connector11pin"
              cx="3.3415201"
              cy="-133.74358"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector10pin-1"
+             id="connector10pin"
              cx="3.3415201"
              cy="-124.73757"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector9pin-8"
+             id="connector9pin"
              cx="3.3415201"
              cy="-115.73157"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector8pin-2"
+             id="connector8pin"
              cx="3.3415201"
              cy="-106.72557"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector7pin-2"
+             id="connector7pin"
              cx="3.3415201"
              cy="-97.719566"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector6pin-1"
+             id="connector6pin"
              cx="3.3415201"
              cy="-88.71357"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector17pin-7"
+             id="connector17pin"
              cx="51.530499"
              cy="-133.74358"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector16pin-3"
+             id="connector16pin"
              cx="51.530499"
              cy="-124.73757"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector15pin-1"
+             id="connector15pin"
              cx="51.530499"
              cy="-115.73157"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector14pin-1"
+             id="connector14pin"
              cx="51.530499"
              cy="-106.72557"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector13pin-3"
+             id="connector13pin"
              cx="51.530499"
              cy="-97.719566"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector12pin-6"
+             id="connector12pin"
              cx="51.530499"
              cy="-88.71357"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector5pin-3"
+             id="connector5pin"
              cx="-155.77599"
              cy="-49.8694"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector4pin-7"
+             id="connector4pin"
              cx="-155.77599"
              cy="-40.8634"
              r="1.584"
@@ -206,7 +206,7 @@
              inkscape:label="#connector4pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector3pin-0"
+             id="connector3pin"
              cx="-155.77599"
              cy="-31.857399"
              r="1.584"
@@ -214,7 +214,7 @@
              inkscape:label="#connector3pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector2pin-7"
+             id="connector2pin"
              cx="-155.77599"
              cy="-22.851398"
              r="1.584"
@@ -222,7 +222,7 @@
              inkscape:label="#connector2pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector1pin-2"
+             id="connector1pin"
              cx="-155.77599"
              cy="-13.845398"
              r="1.584"
@@ -230,7 +230,7 @@
              inkscape:label="#connector1pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector0pin-2"
+             id="connector0pin"
              cx="-155.77599"
              cy="-4.8393993"
              r="1.584"
@@ -238,21 +238,21 @@
              inkscape:label="#connector0pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector21pin-1"
+             id="connector21pin"
              cx="-67.043159"
              cy="-39.992283"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector20pin-4"
+             id="connector20pin"
              cx="-67.043159"
              cy="-31.566986"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector19pin-3"
+             id="connector19pin"
              cx="-67.043159"
              cy="-23.141689"
              r="1.584"
@@ -260,7 +260,7 @@
              inkscape:label="#cconnector19pin" />
           <circle
              style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
-             id="connector18pin-1"
+             id="connector18pin"
              cx="-67.043159"
              cy="-14.716391"
              r="1.584"
