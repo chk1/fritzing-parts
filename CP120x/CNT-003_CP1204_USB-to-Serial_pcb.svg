@@ -52,8 +52,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="46.373845"
-     inkscape:cy="22.583726"
+     inkscape:cx="46.528481"
+     inkscape:cy="22.458726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,189 +88,181 @@
      inkscape:label="breadboard"
      transform="translate(-53.149612,-7.9173986e-8)">
     <g
-       inkscape:label="PCB"
+       inkscape:label="copper"
        inkscape:groupmode="layer"
        id="layer1"
        transform="translate(3.8146973e-6,-992.12598)"
        style="display:inline">
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.80900012;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.80900013;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="silkscreen"
          width="104.49039"
          height="58.427395"
          x="54.054016"
          y="993.0304" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer5"
-       inkscape:label="copper"
-       style="display:inline"
-       transform="translate(3.8146973e-6,-2.1240235e-6)">
       <g
-         id="copper1"
-         style="fill:none;fill-opacity:1">
+         id="copper1">
         <g
-           id="copper0"
-           style="fill:none;fill-opacity:1">
+           transform="translate(-1.4853579,994.80808)"
+           id="copper0">
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector11pin"
-             cx="7.0866094"
-             cy="-131.98817"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector11pin-5"
+             cx="3.3415201"
+             cy="-133.74358"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector10pin"
-             cx="7.0866094"
-             cy="-122.77557"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector10pin-1"
+             cx="3.3415201"
+             cy="-124.73757"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector9pin"
-             cx="7.0866094"
-             cy="-113.56297"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector9pin-8"
+             cx="3.3415201"
+             cy="-115.73157"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector8pin"
-             cx="7.0866094"
-             cy="-104.35038"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector8pin-2"
+             cx="3.3415201"
+             cy="-106.72557"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector7pin"
-             cx="7.0866094"
-             cy="-95.137779"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector7pin-2"
+             cx="3.3415201"
+             cy="-97.719566"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector6pin"
-             cx="7.0866094"
-             cy="-85.925186"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector6pin-1"
+             cx="3.3415201"
+             cy="-88.71357"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector17pin"
-             cx="54.035427"
-             cy="-132.01433"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector17pin-7"
+             cx="51.530499"
+             cy="-133.74358"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector16pin"
-             cx="54.035427"
-             cy="-122.80172"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector16pin-3"
+             cx="51.530499"
+             cy="-124.73757"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector15pin"
-             cx="54.035427"
-             cy="-113.58912"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector15pin-1"
+             cx="51.530499"
+             cy="-115.73157"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector14pin"
-             cx="54.035427"
-             cy="-104.37653"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector14pin-1"
+             cx="51.530499"
+             cy="-106.72557"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector13pin"
-             cx="54.035427"
-             cy="-95.163925"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector13pin-3"
+             cx="51.530499"
+             cy="-97.719566"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector12pin"
-             cx="54.035427"
-             cy="-85.951332"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector12pin-6"
+             cx="51.530499"
+             cy="-88.71357"
              r="1.584"
              transform="matrix(0,1,-1,0,0,0)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector5pin"
-             cx="-154.32379"
-             cy="-51.180946"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector5pin-3"
+             cx="-155.77599"
+             cy="-49.8694"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector4pin"
-             cx="-154.32379"
-             cy="-42.75565"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector4pin-7"
+             cx="-155.77599"
+             cy="-40.8634"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#connector4pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector3pin"
-             cx="-154.32379"
-             cy="-34.330353"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector3pin-0"
+             cx="-155.77599"
+             cy="-31.857399"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#connector3pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector2pin"
-             cx="-154.32379"
-             cy="-25.905054"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector2pin-7"
+             cx="-155.77599"
+             cy="-22.851398"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#connector2pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector1pin"
-             cx="-154.32379"
-             cy="-17.479755"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector1pin-2"
+             cx="-155.77599"
+             cy="-13.845398"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#connector1pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector0pin"
-             cx="-154.32379"
-             cy="-9.0544586"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector0pin-2"
+             cx="-155.77599"
+             cy="-4.8393993"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#connector0pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector21pin"
-             cx="-64"
-             cy="-42.75605"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector21pin-1"
+             cx="-67.043159"
+             cy="-39.992283"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector20pin"
-             cx="-64"
-             cy="-34.330753"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector20pin-4"
+             cx="-67.043159"
+             cy="-31.566986"
              r="1.584"
              transform="scale(-1,-1)" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector19pin"
-             cx="-64"
-             cy="-25.905457"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector19pin-3"
+             cx="-67.043159"
+             cy="-23.141689"
              r="1.584"
              transform="scale(-1,-1)"
              inkscape:label="#cconnector19pin" />
           <circle
-             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995;fill-opacity:1"
-             id="connector18pin"
-             cx="-64"
-             cy="-17.480158"
+             style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+             id="connector18pin-1"
+             cx="-67.043159"
+             cy="-14.716391"
              r="1.584"
              transform="scale(-1,-1)" />
         </g>
